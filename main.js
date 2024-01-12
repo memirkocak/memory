@@ -13,9 +13,4 @@ for(let i = 0; i<cartes.length; i++){
   });
 };
 
-if(){
 
-}
-else if(){
-
-}
