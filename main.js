@@ -11,9 +11,7 @@ for (let i = 0; i < cartes.length; i++) {
       if (choix1 === ""){
         choix1 = i;
       } 
-      if (cartes == style.backgroundColor = 'aqua';){
-        console.log('BRAVO')
-      }
+
       else if (cartes[choix1].getAttribute("data-key") === cartes[i].getAttribute("data-key")) {
         console.log('pair');
         cartes[choix1].style.backgroundColor = 'aqua';
